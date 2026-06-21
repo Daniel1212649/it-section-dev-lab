@@ -1,0 +1,9 @@
+INFO app started
+
+DEBUG loading config
+
+ERROR database connection failed
+
+INFO retrying
+
+ERROR timeout
