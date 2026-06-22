@@ -53,8 +53,6 @@ Pull Request в основной репозиторий приветствует
 | [ROADMAP.md](ROADMAP.md) | Темы и прогресс |
 | [PRACTICE_GUIDE.md](PRACTICE_GUIDE.md) | Как выполнять задания |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Правила Pull Requests |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Правила общения |
-| [SECURITY.md](SECURITY.md) | Безопасность и секреты |
 
 ## Автор и материалы
 
