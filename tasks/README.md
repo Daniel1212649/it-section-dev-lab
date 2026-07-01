@@ -5,6 +5,10 @@
 | [01](01-linux/README.md) | Linux | Навигация, файлы, поиск и обработка текста |
 | [02](02-git/README.md) | Git | Конфликты, stash и безопасная отмена изменений |
 | [03](03-api/README.md) | API | Основные термины, взаимодействие и контракт |
+| [04](04-client-server/README.md) | Client/Server | Клиент, сервер, домен, IP, порт и соединение |
+| [05](05-tcp-udp/README.md) | TCP/UDP | Транспортный уровень, надежность, пакеты и задержки |
+| [06](06-http-https/README.md) | HTTP/HTTPS | Запросы, ответы, status codes, headers, TLS |
+| [07](07-rest/README.md) | REST | Ресурсы, методы, stateless, ошибки и документация |
 
 Условия заданий изменяются только через Pull Request в основной репозиторий.
 Личные решения храните в `solutions/` своего Fork.
