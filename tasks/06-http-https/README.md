@@ -5,6 +5,12 @@
 Проверить понимание HTTP как правил общения клиента и сервера, а HTTPS - как
 защищенного HTTP поверх TLS.
 
+## Материалы перед заданием
+
+Перед выполнением задания рекомендуется прочитать материалы:
+
+- [HTTP и HTTPS: как клиент и сервер общаются в web](https://telegra.ph/HTTP-i-HTTPS-kak-klient-i-server-obshchayutsya-v-web-06-29)
+
 ## Задание. Вопросы на понимание
 
 Создайте `solutions/06-http-https/http-https-questions.md` и ответьте на 10
